@@ -1,5 +1,5 @@
 # hello kind soul
-- this is a riff on Gwern's "[You could have invented transformers](https://gwern.net/blog/2025/you-could-have-invented-transformers)"
+- this is a narrativized and ascii-ed riff on Gwern's "[You could have invented transformers](https://gwern.net/blog/2025/you-could-have-invented-transformers)"
 - it is broken down into the following sections:
     1. The Early Days - From n-grams through embeddings to early neural language models
     2. The Search for Global Context - Convolutions, dilated convolutions, MLP-Mixer, and dynamic weights
