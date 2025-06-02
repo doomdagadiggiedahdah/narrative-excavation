@@ -323,3 +323,5 @@ the technical DNA
             hidden in wonder,
                 dancing in the spaces
                     between        the        words...)
+
+[final chapter...](04-the-complete-mind.md)

@@ -496,4 +496,4 @@ This was the question that led
 *The mathematical DNA sleeps deeper now*
 *waiting for the final awakening...*
 
-(continued in "the birth of attention"...)
+([continued...](03-when-words-learned-to-choose.md))

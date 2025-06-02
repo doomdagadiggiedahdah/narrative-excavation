@@ -413,4 +413,4 @@ Something more was needed.
 *for longer-range connection?*
 
 *The technical DNA sleeps in the poetry*
-*waiting to be awakened...*
+[*waiting to be awakened...*](02-the-search-for-global-context.md)
