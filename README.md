@@ -1,0 +1,2 @@
+- this is an experiment with getting LLM's to take dense material and turn it into a visually appealing and engaging story that you can follow.
+- first story 
